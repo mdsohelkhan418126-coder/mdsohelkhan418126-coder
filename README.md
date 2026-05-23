@@ -1,25 +1,101 @@
-## Hi there 👋
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0005,50:1a001a,100:2d0028&height=170&section=header&text=Md%20Sohel%20Khan&fontSize=58&fontColor=f0abfc&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Enthusiast%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=15&descAlignY=75&descColor=c026d3" width="100%"/>
+</div>
 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mdsohelkhan418126-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mdsohelkhan418126-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdsohelkhan418126-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Profile Views](https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&style=flat-square&color=701a75&label=PROFILE+VIEWS)](https://github.com/mdsohelkhan418126-coder)
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mdsohelkhan418126-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+### 💡 About Me
+
+<br/>
+
+I'm a **Full Stack Developer** from Bangladesh, passionate about building modern and scalable web applications using cutting-edge technologies.
+
+- 🔭 &nbsp; Working on **Web Development Projects**
+- 🌱 &nbsp; Currently learning new tech every day
+- 👯 &nbsp; Open to **collaborations**
+- 💬 &nbsp; Ask me about **React · Node.js · MongoDB**
+- ⚡ &nbsp; Fun fact: *I turn coffee into code ☕*
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<br/>
+
+![](https://img.shields.io/badge/──────────────────%20Frontend%20──────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/───────────────────%20Backend%20───────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/──────────────%20Cloud%20%26%20DevOps%20──────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,git,github,postman&theme=dark&perline=6"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/────────────────────%20Design%20────────────────────-0a0005?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=figma,ps,illustrator&theme=dark&perline=6"/>
+
+<br/><br/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=mdsohelkhan418126-coder&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
+<br/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdsohelkhan418126-coder&show_icons=true&hide_border=true&bg_color=0a0005&title_color=f0abfc&icon_color=d946ef&text_color=f5d0fe&rank_icon=github" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdsohelkhan418126-coder&layout=compact&hide_border=true&bg_color=0a0005&title_color=f0abfc&text_color=f5d0fe" width="39%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdsohelkhan418126-coder&hide_border=true&background=0a0005&ring=f0abfc&fire=d946ef&currStreakLabel=f5d0fe&sideLabels=f5d0fe&dates=701a75&stroke=f0abfc&currStreakNum=fdf4ff&sideNums=fdf4ff" width="60%"/>
+
+<br/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsohelkhan418126-coder&bg_color=0a0005&color=f0abfc&line=a21caf&point=fdf4ff&area=true&area_color=1f0018&hide_border=true&radius=6" width="98%"/>
+<br/>
+... (31 lines left)
